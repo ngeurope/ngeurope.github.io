@@ -102,13 +102,23 @@ body {
     height: 600px;
     /* credit: http://commons.wikimedia.org/wiki/File:Tour_Eiffel-1534308.jpeg */
     /*background: url("http://i.imgur.com/5toVhLk.jpg") no-repeat;*/
-    background: url("/images/paris/eiffel.jpg") no-repeat;
     /*background: url("http://upload.wikimedia.org/wikipedia/commons/a/a2/Tour_Eiffel-1534308.jpeg") no-repeat;*/
     background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
     -webkit-animation: goThroughtTheBgImage 20s infinite ease-in-out;
     animation: goThroughtTheBgImage 20s infinite ease-in-out; }
+    @media (min-width: 768px) {
+      .extra-top-space {
+        background: url("/images/paris/eiffel.jpg") no-repeat;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-animation: goThroughtTheBgImage 20s infinite ease-in-out;
+        animation: goThroughtTheBgImage 20s infinite ease-in-out; }
+        .extra-top-space.do-it-big-in-the-shadow {
+          -webkit-animation-play-state: running;
+          animation-play-state: paused; } }
     .extra-top-space.do-it-big-in-the-shadow {
       -webkit-animation-play-state: running;
       animation-play-state: paused; } }
