@@ -165,6 +165,10 @@ body {
     .section-subtitle {
       font-size: 0.25em; } }
 
+@media (max-width: 767px) {
+  .sponsor-logo {
+    max-width: 80%; } }
+
 .avatar {
   width: 220px;
   padding: 0;
@@ -442,3 +446,19 @@ body {
 
 .organizer-role {
   display: block; }
+
+.avatar-talks {
+  width: 48px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border: 1px solid #666; }
+
+.speakers-names {
+  font-weight: bold; }
+
+.talks-title {
+  font-weight: bold;
+  color: #666; }
+
+.search-speakers {
+  margin-bottom: 15px; }
