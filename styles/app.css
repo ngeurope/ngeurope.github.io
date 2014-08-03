@@ -462,3 +462,6 @@ body {
 
 .search-speakers {
   margin-bottom: 15px; }
+
+.first-day, .second-day, .third-day {
+  padding: 5px; }
