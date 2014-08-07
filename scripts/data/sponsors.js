@@ -1,1 +1,1 @@
-sponsors={premier:[{name:"Google",url:"https://google.com",blurb:"Google.",logo:"google.png"}],platinium:[],gold:[{name:"SFEIR",url:"http://sfeir.com",blurb:"SFEIR.",logo:"sfeir.png"}],silver:[],bronze:[],basic:[]};
+sponsors={premier:[{name:"Google",url:"https://google.com",blurb:"Google.",logo:"google.png"}],platinium:[],gold:[{name:"SFEIR",url:"http://sfeir.com",blurb:"SFEIR.",logo:"sfeir.png"}],silver:[],bronze:[],basic:[{name:"PHIDIAS",url:"http://www.phidias.co/default",logo:"phidias.png"}]};
