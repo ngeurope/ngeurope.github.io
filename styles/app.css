@@ -168,6 +168,9 @@ body {
 @media (max-width: 767px) {
   .sponsor-logo {
     max-width: 80%; } }
+@media (min-width: 768px) {
+  .sponsor-logo {
+    margin-right: 35px; } }
 
 .avatar {
   width: 220px;
