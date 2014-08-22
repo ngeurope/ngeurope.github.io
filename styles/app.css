@@ -78,7 +78,9 @@ body {
       visibility: visible;
       max-width: 200px;
       -webkit-transition: visibility 0.42s ease, max-width 0.42s ease, padding 0.42s ease, opacity 0.42s ease;
-      transition: visibility 0.42s ease, max-width 0.42s ease, padding 0.42s ease, opacity 0.42s ease; }
+      transition: visibility 0.42s ease, max-width 0.42s ease, padding 0.42s ease, opacity 0.42s ease;
+      -webkit-transition-delay: 1s;
+      transition-delay: 1s; }
     .main-header .big-logo {
       max-height: 0;
       opacity: 0;
@@ -92,7 +94,9 @@ body {
         opacity: 0;
         visibility: hidden;
         max-width: 0;
-        padding: 0; }
+        padding: 0;
+        -webkit-transition-delay: 0s;
+        transition-delay: 0s; }
       .main-header.do-it-big .big-logo {
         opacity: 1;
         padding-top: 1rem;
