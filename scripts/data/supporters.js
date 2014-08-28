@@ -1,1 +1,1 @@
-window.supporters=[{name:"oreilly",url:"http://oreilly.com/",logo:"oreilly.png"}];
+window.supporters=[{name:"oreilly",url:"http://oreilly.com/",logo:"oreilly.png"},{name:"Oxiane",url:"http://www.oxiane.com/",logo:"oxiane.png"}];

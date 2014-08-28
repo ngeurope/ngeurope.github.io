@@ -474,6 +474,9 @@ body {
 .first-day, .second-day, .third-day {
   padding: 5px; }
 
+.silver-sponsor {
+  max-width: 285px; }
+
 .bronze-sponsor {
   max-width: 270px; }
 
