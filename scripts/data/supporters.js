@@ -1,0 +1,1 @@
+window.supporters=[{name:"oreilly",url:"http://oreilly.com/",logo:"oreilly.png"}];
